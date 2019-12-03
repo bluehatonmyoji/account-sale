@@ -10,6 +10,27 @@ Note: Since the account has been used on an iOS device, it cannot be used on an 
 [x] casual duel (honor farm only) celebrity tier
 [x] capable of top 15 when dueling competitively
 
+## materials
+
+Materials will change slightly due to use, but as of right now I have:
+
+[x] 36.4 million coin
+[x] 11,726 jade
+[x] 3.2 thousand AP
+
+[x] 59 blue summon amulets
+[x] 2 purple summon amulets
+[x] 606 broken amulets
+
+[x] 999 Demon Parade tickets
+[x] 379 Totem Zone tickets
+
+[x] 76 blue daruma
+[x] 98 white daruma
+[x] 1491 red daruma
+
+[x] 129 level 20 fodder
+[x] 40 g3 fodder
 
 ## shikigami
 
@@ -51,8 +72,10 @@ broken amus
 # farming
 
 [x] Sougenbi: shadow-odo Higan 99% crit and 250 cd, azure tesso, and 3 fodder (average 90-100s), 21 rounds per four level 20 fodder
-[x] Explore: 127 shadow SP Iba  can one-shot chapter 28 (with 124 speed K
-[x] Explore: 125 speed shadow Tamamo can one-shot chapter 26 
+[x] Explore: 127 shadow SP Iba  can one-shot chapter 28 (with 124 speed Kagura) 
+[x] Explore: 125 speed shadow Tamamo can one-shot chapter 26 (with 124 speed Kagura) 
+[x] 
+[x] Area Boss: 3 G6 scarlet Chin, G6 FC Shouzu, (flex Azure Kaguya or Azure Shiranui), top 1 rank in a new boss each day 31,000-32,000 points
 
 
 
