@@ -19,23 +19,23 @@ Note: Since the account has been used on an iOS device, it cannot be used on an 
 
 Materials will change slightly due to use, but as of right now I have:
 
-[x] 36.4 million coin
-[x] 11,726 jade
-[x] 3.2 thousand AP
+-[x] 36.4 million coin
+-[x] 11,726 jade
+-[x] 3.2 thousand AP
 
-[x] 59 blue summon amulets
-[x] 2 purple summon amulets
-[x] 606 broken amulets
+-[x] 59 blue summon amulets
+-[x] 2 purple summon amulets
+-[x] 606 broken amulets
 
-[x] 999 Demon Parade tickets
-[x] 379 Totem Zone tickets
+-[x] 999 Demon Parade tickets
+-[x] 379 Totem Zone tickets
 
-[x] 76 blue daruma
-[x] 98 white daruma
-[x] 1491 red daruma
+-[x] 76 blue daruma
+-[x] 98 white daruma
+-[x] 1491 red daruma
 
-[x] 129 level 20 fodder
-[x] 40 g3 fodder
+-[x] 129 level 20 fodder
+-[x] 40 g3 fodder
 
 ## shikigami
 
@@ -69,18 +69,20 @@ broken amus
 
 # onmyoji
 
-[x] all totem level 40 except Kagura who is 124 speed
-[x] gold skin for every onmyoji
-[x] alternate skin for every onmyoji totem
-[x] 
+-[x] all totem level 40 except Kagura who is 124 speed
+-[x] gold skin for every onmyoji
+-[x] alternate skin for every onmyoji totem
+-[x] 
 
 # farming
 
-[x] Sougenbi: shadow-odo Higan 99% crit and 250 cd, azure tesso, and 3 fodder (average 90-100s), 21 rounds per four level 20 fodder
-[x] Explore: 127 shadow SP Iba  can one-shot chapter 28 (with 124 speed Kagura) 
-[x] Explore: 125 speed shadow Tamamo can one-shot chapter 26 (with 124 speed Kagura) 
-[x] 
-[x] Area Boss: 3 G6 scarlet Chin, G6 FC Shouzu, (flex Azure Kaguya or Azure Shiranui), top 1 rank in a new boss each day 31,000-32,000 points
+-[x] Soul 10: 17 seconds, Tama (shadow spd/atk/cd), Inuyasha (seduc-song spd/atk/crit), Nekomata (seduc-song atk/atk/crit)
+-[x] Soul 11: 34 seconds, Yamausagi (azure), Tama (shadow), SP Iba (Kyo-odo), Ushi (kyo-odo), Hakuro (shadow)
+-[x] Sougenbi: shadow-odo Higan 99% crit and 250 cd, azure tesso, and 3 fodder (average 90-100s), 21 rounds per four level 20 fodder
+-[x] Explore: 127 shadow SP Iba  can one-shot chapter 28 (with 124 speed Kagura) 
+-[x] Explore: 125 speed shadow Tamamo can one-shot chapter 26 (with 124 speed Kagura) 
+-[x] Evo: 4 second shadow-odo SP Iba (speed/attack/cd) 100% crit
+-[x] Area Boss: 3 G6 scarlet Chin, G6 FC Shouzu, (flex Azure Kaguya or Azure Shiranui), top 1 rank in a new boss each day 31,000-32,000 points
 
 
 
