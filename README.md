@@ -25,9 +25,9 @@ More teams are mentioned in the [farming](#farming) section.
 - [x] PVP: shira, bake, bake, hiyo, (flex haku, higan, or third bake) [all G6]
 - [x] PVP: shira, kujira, maestro (+153 speed), (flex yumekui or samx), (flex orochi, higan, otake) [all G6 except samx]
 - [x] PVP: kaguya, SP miketsu, sakura (pearl or FC), houoka, kamai [all G6]
--
+
 - [x] Area Boss: Shouzu (FC), 3 Chin (Scarlet), (flex azure shira, azure kaguya, or FC sakura) [all G6]
--
+
 - [x] Realm Raid: 12 second team - Kamai (+153 spd), Maki, Oitsuke, shadow Tamamo, (flex cd watcher Otake or cd watcher SP Iba) [all G6]
 - [x] Realm Raid: 3x Bake, Shira, Higan [all G6]
 
@@ -49,18 +49,18 @@ Materials will change slightly due to use, but as of right now I have:
 - [x] 11,726 jade
 - [x] 3.2 thousand AP
 - [x] 427 Paw Coins (3 cats, 3 dogs and SSR Iba's cloud)
--
+
 - [x] 59 blue summon amulets
 - [x] 2 purple summon amulets
 - [x] 606 broken amulets
--
+
 - [x] 999 Demon Parade tickets
 - [x] 379 Totem Zone tickets
--
+
 - [x] 76 blue daruma
 - [x] 98 white daruma
 - [x] 1491 red daruma
--
+
 - [x] 129 level 20 fodder
 - [x] 40 g3 fodder
 
@@ -92,10 +92,10 @@ This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.
 
 Some crossover and limited shiki I have duplicates of.
 
-- [x] Inuyasha G6 (2,1,5)
-- [x] Sessomaru G4 (1,1,1)
-- [x] Kikiyo G4 (1,1,1)
--
+[x] Inuyasha G6 (2,1,5)
+[x] Sessomaru G4 (1,1,1)
+[x] Kikiyo G4 (1,1,1)
+
 - [x] Hozuki G6 (1,1,1)
 - [x] Hozuki G4 (1,1,1)
 - [x] Maki&Karashi G6 (5,1,5)
@@ -103,7 +103,7 @@ Some crossover and limited shiki I have duplicates of.
 - [x] Maki&Karashi G2 (5,1,5)
 - [x] Maki&Karashi G2 (5,1,5)
 - [x] Oko G2 (1,1,3)
--
+
 - [x] Jinmenju G4 (1,1,1)
 - [x] Mannendake G4 (1,1,1)
 - [x] Kainin G3 (5,5,5)
