@@ -4,14 +4,15 @@ Note: Since the account has been used on an iOS device, it cannot be used on an 
 
 ## onmyoji-account-overview
 
--[x] 41 grade 6 shiki 
--[x] 17 second S10 team
+- [x] 41 grade 6 shiki 
 
--[x] 34 second S11 team
+- [x] 17 second S10 team
 
--[x] casual duel (honor farm only) celebrity tier
+- [x] 34 second S11 team
 
--[x] capable of top 15 when dueling competitively
+- [x] casual duel (honor farm only) celebrity tier
+
+- [x] capable of top 15 when dueling competitively
 
 
 ## materials
