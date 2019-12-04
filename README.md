@@ -31,7 +31,7 @@ More teams are mentioned in the [farming](#farming) section.
 - [x] Realm Raid: 12 second team - Kamai (+153 spd), Maki, Oitsuke, shadow Tamamo, (flex cd watcher Otake or cd watcher SP Iba) [all G6]
 - [x] Realm Raid: 3x Bake, Shira, Higan [all G6]
 
-## a-few-sets-worth-mention
+## a-few-soul-sets-worth-mention
 
 - [x] Broken: 
 - [x] Fortune Cat: 
@@ -68,13 +68,13 @@ Materials will change slightly due to use, but as of right now I have:
 
 I have *a lot* of Moon realm cards and a 36 high level (G4-G6) special realm cards.
 
-[x] 4 G6 Fish
-[x] 7 G5 Fish
-[x] 4 G4 Fish
+- [x] 4 G6 Fish
+- [x] 7 G5 Fish
+- [x] 4 G4 Fish
 
-[x] 3 G6 Coin
-[x] 9 G5 Coin
-[x] 9 G4 Coin
+- [x] 3 G6 Coin
+- [x] 9 G5 Coin
+- [x] 9 G4 Coin
 
 # shards
 
@@ -84,17 +84,17 @@ I have *a lot* of Moon realm cards and a 36 high level (G4-G6) special realm car
 
 This account has every SSN, N, R, SR, and SSR shikigami including all crossover shiki and shiki that can only be purchased in shrine.  
 
-This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.
+This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.  Please click here to see the [collection page](https://bluehatonmyoji.github.io/collection).
 
 -images of shiki
 
-# cross-over-and-shrine-exchange-shikigami
+# cross-over-shiki-and-shiki-only-available-in-shrine-exchange
 
 Some crossover and limited shiki I have duplicates of.
 
-[x] Inuyasha G6 (2,1,5)
-[x] Sessomaru G4 (1,1,1)
-[x] Kikiyo G4 (1,1,1)
+- [x] Inuyasha G6 (2,1,5)
+- [x] Sessomaru G4 (1,1,1)
+- [x] Kikiyo G4 (1,1,1)
 
 - [x] Hozuki G6 (1,1,1)
 - [x] Hozuki G4 (1,1,1)
