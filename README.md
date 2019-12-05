@@ -12,7 +12,7 @@ Note: Since the account has been used on an iOS device, it cannot be used on an 
 
 - [x] casual duel (honor farm only) celebrity tier
 
-- [x] at best I have achieved top 15 in duel at the end of the week when dueling competitively
+- [x] has reached 40 stars when dueling competitively
 
 - [x] 4 second Evo10 team
 
@@ -30,10 +30,19 @@ More teams are mentioned in the [farming](#farming) section.
 - [x] PVP: shira, kujira, maestro (+153 speed), (flex yumekui or samx), (flex orochi, higan, otake) [all G6 except samx]
 - [x] PVP: kaguya, SP miketsu, sakura (pearl or FC), houoka, kamai [all G6]
 
+
 - [x] Area Boss: Shouzu (FC), 3 Chin (Scarlet), (flex azure shira, azure kaguya, or FC sakura) [all G6]
+
 
 - [x] Realm Raid: 12 second team - Kamai (+153 spd), Maki, Oitsuke, shadow Tamamo, (flex cd watcher Otake or cd watcher SP Iba) [all G6]
 - [x] Realm Raid: 3x Bake, Shira, Higan [all G6]
+
+
+- [x] True Orochi: Oguna (G2 Azure), Kuro (G6 Seductres-Song), Orochi (G6 fast cd Shadow), Kamai (G6 FC), Ushi (G5 Watcher-Odo), Onikiri (G6 Shadow or Seduc), Kaguya (G6 Sea Sprite), Oitsuke (G6 FC), Hozuki (G6 Senecio slightly slower than Orochi)
+- Round 1: Oits, Kuro, Oguna, Ushi, Kamai, Onikiri
+- Rounds 2-5 and 7-9: Oits, Kuro, Orochi, Ushi, Kamai, Onikiri
+- Round 6: Oits, Kuro, Orochi, Ushi, Kamai, Hozuki
+- Round 10: Kaguya, Kuro, Orochi, Ushi, Kamai, Onikiri
 
 ## a-few-soul-sets-worth-mention
 
@@ -139,10 +148,14 @@ Some crossover and limited shiki I have duplicates of.
 
 ## asking-price
 
-All offers of $300 USD or higher will be considered.  However, I will close the auction and sell the account immediately to the first bidder who offers $666 USD.  
+All offers of $300 USD or higher will be considered.  However, I will close the auction and sell the account to any bidder who offers $666 USD.  
 
 Please contact me with questions or offers via email at:
 
 bluehatonmyoji@gmail.com
 
 Preferred methods of payment are Chase QuickPay and PayPal.  I will consider other options if needed.  Note: bluehatonmyoji@gmail.com is only for this website, **it is NOT linked to my PayPal or Chase account**.  
+
+If there is a tie for highest bid each person will be notified and given 24 hours to place one more bid. 
+
+Payment can also be made through [**Middleman**](https://www.playerup.com/middleman/?page_id=5&form=cart&p_key=).  
