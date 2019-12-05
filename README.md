@@ -12,7 +12,7 @@ Note: Since the account has been used on an iOS device, it cannot be used on an 
 
 - [x] casual duel (honor farm only) celebrity tier
 
-- [x] capable of top 15 when dueling competitively
+- [x] at best I have achieved top 15 in duel at the end of the week when dueling competitively
 
 - [x] 4 second Evo10 team
 
@@ -145,4 +145,4 @@ Please contact me with questions or offers via email at:
 
 bluehatonmyoji@gmail.com
 
-Preferred methods of payment are Chase QuickPay and PayPal.  I will consider other options if needed.  Note: bluehatonmyoji@gmail.com is only for this sale, **it is NOT linked to my PayPal or Chase account**.  
+Preferred methods of payment are Chase QuickPay and PayPal.  I will consider other options if needed.  Note: bluehatonmyoji@gmail.com is only for this website, **it is NOT linked to my PayPal or Chase account**.  
