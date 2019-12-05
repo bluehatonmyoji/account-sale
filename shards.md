@@ -1,4 +1,4 @@
-# shiki-collections
+# shards
 
 [**Back to main page.**](https://bluehatonmyoji.github.io/account-sale)
 

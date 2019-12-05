@@ -1,6 +1,6 @@
 I am selling an end-game iOS account that has only been bound to Game Center.  It can be bound to Facebook, Twitter, or Steam for transfer.  
 
-Note: Since the account has been used on an iOS device, it cannot be used on an Android device.  
+Note: Since the account has been used on an iOS device, it cannot be used on an Android device. 
 
 ## onmyoji-account-overview
 
@@ -18,6 +18,10 @@ Note: Since the account has been used on an iOS device, it cannot be used on an 
 
 - [x] +153 broken speed set
 
+- [x] admiral in some boss battles
+
+- [x] 177 level 20 g2 (or level 1 g3) fodder shiki
+
 ## a-few-teams-worth-mention
 
 More teams are mentioned in the [farming](#farming) section.  
@@ -33,12 +37,16 @@ More teams are mentioned in the [farming](#farming) section.
 
 ## a-few-soul-sets-worth-mention
 
-- [x] Broken: 
-- [x] Fortune Cat: 
-- [x] Shadow: 89% crit, 110% cd, +15 speed
-- [x] Shadow-odo: 91% crit, 100% cd, +3 speed
+Soul-sets listed below can be viewed on the [**soul-sets page**](https://bluehatonmyoji.github.io/account-sale/soul-sets).
+
+- [x] Broken: +153 speed
+- [x] Fortune Cat: +141 speed
+- [x] Shadow: 89% crit, 110% cd, +15 speed, +4638 atk
+- [x] Shadow: 90% crit, 110% cd, +71 speed, +2708 atk
+- [x] Shadow-odo: 91% crit, 100% cd, +3 speed, +4990 atk
 - [x] Dawn Fairy: 164% res, +71 speed, +9398 hp
-- [x] Watcher: 
+- [x] Watcher: 79% crit, 103% cd, +13 speed, +4908 atk
+- [x] Seductress: 90% crit, 121% cd, +0 speed, +4188 atk
 
 
 ## materials
@@ -64,9 +72,9 @@ Materials will change slightly due to use, but as of right now I have:
 - [x] 129 level 20 fodder
 - [x] 40 g3 fodder
 
-# realm-cards
+## realm-cards
 
-I have *a lot* of Moon realm cards and a 36 high level (G4-G6) special realm cards.
+I have **a lot** of Moon realm cards and a 36 high level (G4-G6) special realm cards.
 
 - [x] 4 G6 Fish
 - [x] 7 G5 Fish
@@ -76,7 +84,7 @@ I have *a lot* of Moon realm cards and a 36 high level (G4-G6) special realm car
 - [x] 9 G5 Coin
 - [x] 9 G4 Coin
 
-# shards
+## shards
 
 Please see the [**shards page**](https://bluehatonmyoji.github.io/account-sale/shards) for an image of all of the shards.  The shards may vary slightly due to current ongoing trades for SP Tama and SP Hannya.  I rarely collect N or R shards so there are an abundance of them.  
 
@@ -85,9 +93,9 @@ Please see the [**shards page**](https://bluehatonmyoji.github.io/account-sale/s
 
 This account has every SSN, N, R, SR, and SSR shikigami including all crossover shiki and shiki that can only be purchased in shrine.  
 
-This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.  Please click here to see the [**collection page**](https://bluehatonmyoji.github.io/account-sale/collection).
+This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.  Please click here to see the [**shikigami collection page**](https://bluehatonmyoji.github.io/account-sale/collection).
 
-# cross-over-shiki-and-shiki-only-available-in-shrine-exchange
+## cross-over-shiki-and-shiki-only-available-in-shrine-exchange
 
 Some crossover and limited shiki I have duplicates of.
 
@@ -129,10 +137,12 @@ Some crossover and limited shiki I have duplicates of.
 - [x] Evo: 4 second shadow-odo SP Iba (speed/attack/cd) 100% crit
 - [x] Area Boss: 3 G6 scarlet Chin, G6 FC Shouzu, (flex Azure Kaguya or Azure Shiranui), top 1 rank in a new boss each day 31,000-32,000 points
 
-# asking-price
+## asking-price
 
-All offers of $300 USD or higher will be considered.  I will close the auction and sell the account immediately for $799 USD.  
+All offers of $300 USD or higher will be considered.  However, I will close the auction and sell the account immediately to the first bidder who offers $666 USD.  
 
 Please contact me with questions or offers via email at:
 
 bluehatonmyoji@gmail.com
+
+Preferred methods of payment are Chase QuickPay and PayPal.  I will consider other options if needed.  Note: bluehatonmyoji@gmail.com is only for this sale, **it is NOT linked to my PayPal or Chase account**.  
