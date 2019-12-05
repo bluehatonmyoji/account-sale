@@ -78,15 +78,14 @@ I have *a lot* of Moon realm cards and a 36 high level (G4-G6) special realm car
 
 # shards
 
--images
+Please see the [**shards page**](https://bluehatonmyoji.github.io/account-sale/collection) for an image of all of the shards.  The shards may vary slightly due to current ongoing trades for SP Tama and SP Hannya.  I rarely collect N or R shards so there are an abundance of them.  
+
 
 ## shikigami
 
 This account has every SSN, N, R, SR, and SSR shikigami including all crossover shiki and shiki that can only be purchased in shrine.  
 
-This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.  Please click here to see the [collection page](https://bluehatonmyoji.github.io/collection).
-
--images of shiki
+This account is only missing SP Tamamo, SP Hannya, and SP Arakawa.  Please click here to see the [**collection page**](https://bluehatonmyoji.github.io/account-sale/collection).
 
 # cross-over-shiki-and-shiki-only-available-in-shrine-exchange
 
