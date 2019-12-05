@@ -78,7 +78,7 @@ I have *a lot* of Moon realm cards and a 36 high level (G4-G6) special realm car
 
 # shards
 
-Please see the [**shards page**](https://bluehatonmyoji.github.io/account-sale/collection) for an image of all of the shards.  The shards may vary slightly due to current ongoing trades for SP Tama and SP Hannya.  I rarely collect N or R shards so there are an abundance of them.  
+Please see the [**shards page**](https://bluehatonmyoji.github.io/account-sale/shards) for an image of all of the shards.  The shards may vary slightly due to current ongoing trades for SP Tama and SP Hannya.  I rarely collect N or R shards so there are an abundance of them.  
 
 
 ## shikigami
