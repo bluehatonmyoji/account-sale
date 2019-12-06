@@ -158,4 +158,4 @@ Preferred methods of payment are Chase QuickPay and PayPal.  I will consider oth
 
 If there is a tie for highest bid each person will be notified and given 24 hours to place one more bid. 
 
-Payment can also be made through [**Middleman**](https://www.playerup.com/middleman/?page_id=5&form=cart&p_key=).  
+Account is also listed on [**PlayerUp**](https://www.playerup.com/threads/300-666-onmyoji-end-game-ios-account-41-g6-shiki.4178659/).
