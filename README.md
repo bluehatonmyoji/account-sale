@@ -1,3 +1,5 @@
+# UPDATE: ACCOUNT HAS BEEN SOLD
+
 I am selling an end-game iOS account that has only been bound to Game Center.  It can be bound to Facebook, Twitter, or Steam for transfer.  
 
 Note: Since the account has been used on an iOS device, it cannot be used on an Android device. 
